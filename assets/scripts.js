@@ -13,3 +13,6 @@ $(document).ready(function() {
         tagsPosition: 'top'
     });
 });
+
+// vérifier que le fond change quand on change de filtre ; vérifier que le script est bien appelé et que le jQuery est bien appelé (a priori oui)
+// vérifier s'il ne manque pas un paramètre ou un éléments caractérisant chaque image
